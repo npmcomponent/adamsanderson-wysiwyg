@@ -1,0 +1,12 @@
+{
+  "name": "adamsanderson-wysiwyg",
+  "description": "wysiwyg editor commands",
+  "version": "0.0.1",
+  "keywords": [
+    "wysiwyg",
+    "editor",
+    "contenteditable"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
